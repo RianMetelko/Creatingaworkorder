@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 8">
+<document-info>
+	<title>Creating A Work Order</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project Creating A Work Order</keywords>
+	<view-link href="multiscreen.html?slide={position}" href-swf="TALONes Creating A Work Order.swf?slide={position}" href-html5="multiscreen.html?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title></title>
+
+	<content>
+	<text>TALONes</text>
+
+	<text>Creating A Work Order</text>
+</content>
+</section>
+<section type="slide" position="2">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="3">
+	<title>Learning Objectives</title>
+
+	<content>
+	<text>Learning Objectives</text>
+
+	<text>After completing this training video, you will be able to:</text>
+
+	<text>Complete all basic components of a work orderUnderstand the “In Process” and “Estimate” status and their impact on inventoryUnderstand the differences between an Internal and a Customer work order Identify work order event typesSuccessfully update the work order status to Complete and Cash Out</text>
+</content>
+
+	<related-content>After completing this course, you will be able to:; Complete all componates of a basic work order. Understand the “In Process” and “Estimate” status and their impact on inventory. Understand the differences between an Internal and a Customer work order. Identify work order types.Successfully update the work order status to Complete and Cash Out. 
+</related-content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="5">
+	<title>Creating a Work Order/Estimate</title>
+
+	<content>
+	<text>Creating a Work Order</text>
+</content>
+
+	<related-content>In this video we will cover how to create a work order for a customer that has come in for a standered oil change. We will cover the entire process from bilke check in to work order cash out. </related-content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="7">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="8">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="13">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="14">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="15">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="16">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="17">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="18">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="19">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="20">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="21">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="22">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="23">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="24">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="25">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="26">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="27">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="28">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="29">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="30">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="31">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="32">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="33">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="34">
+	<title></title>
+
+	<content>
+	<text>Comments:  Provide a brief description of the work to be perform on vehicle</text>
+
+	<text>Work Order StatusEstimate:  Create a work order for customer to provide 	an estimate of cost.  Added parts are NOT pulled from inventoryIn Process:  Create a work order to begin work on vehicle.  Add parts are pulled from inventory.Complete:  Marks the Work Order as complete.  	NOTE:  Work Order cannot be cashed out until the status has 		been changed to Complete.</text>
+
+	<text>Work Order Number:  TALON automatically assigns each work order a unique number.  This can be manually changed, if desired</text>
+
+	<text>Hyperlink:  Click to open the Customer Record screen</text>
+
+	<text>Vehicle InformationVIN:  Enter the vehicle VIN or use the magnifying glass to search for the customer’s vehicle.  Yr/Make/Model, Color, License, Size:  Prepopulated from Customer Vehicles Owned screenLast Mileage:  Pulled from previous work order on vehicleMileage In:  Prepopulated from Last Mileage field.  Change  to reflect current mileageMileage Out:  Enter vehicle mileage once work on vehicle is complete</text>
+</content>
+</section>
+<section type="slide" position="35">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="36">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="37">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="38">
+	<title></title>
+
+	<content>
+	<text></text>
+</content>
+</section>
+<section type="slide" position="39">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="40">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="41">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="42">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="43">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="44">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="45">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="46">
+	<title>Adding Events to the Work Order</title>
+
+	<content>
+	<text> Adding Events to a Work Order </text>
+</content>
+</section>
+<section type="slide" position="47">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="48">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="49">
+	<title></title>
+
+	<content>
+	<text></text>
+</content>
+</section>
+<section type="slide" position="50">
+	<title></title>
+
+	<content>
+	<text>Policy Work Event:  Use when the dealership is paying for the service work.  Additional Group Box is enabled to identify the department that will incur the expense.</text>
+
+	<text>ESP/PPM Event: (Extended Service Plan/Prepaid Maintenance) Use when a policy is paying for the service work.Additional policy-related fields are enabled:  Policy _/Contract ID; Plan Code; ESP/PPM Task Code; Deductible; Vendor; Event Taxable; Exp Miles; and Exp Date</text>
+
+	<text>Contract Event:  Use when allocating contract/sublet labor hours to the event.</text>
+
+	<text>Warranty Event:  Use for vehicle-manufacturer-paid service work.Additional warranty-related fields are enabled:  Vendor and Recall.</text>
+
+	<text>Regular Event:  Use for customer paid service work.</text>
+</content>
+</section>
+<section type="slide" position="51">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="52">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="53">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="54">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="55">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="56">
+	<title>Adding Parts to the Work Order</title>
+
+	<content>
+	<text>Adding Parts To A Work Order</text>
+</content>
+</section>
+<section type="slide" position="57">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="58">
+	<title></title>
+
+	<content>
+	<text>1384</text>
+</content>
+</section>
+<section type="slide" position="59">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="60">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="61">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="62">
+	<title></title>
+
+	<content>
+	<text></text>
+</content>
+</section>
+<section type="slide" position="63">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="64">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="65">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="66">
+	<title></title>
+
+	<content>
+	<text></text>
+</content>
+</section>
+<section type="slide" position="67">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="68">
+	<title></title>
+
+	<content>
+	<text>1384</text>
+
+	<text>1384</text>
+</content>
+</section>
+<section type="slide" position="69">
+	<title></title>
+
+	<content>
+	<text>1384</text>
+
+	<text>1384</text>
+</content>
+</section>
+<section type="slide" position="70">
+	<title></title>
+
+	<content>
+	<text>1384</text>
+
+	<text>1384</text>
+</content>
+</section>
+<section type="slide" position="71">
+	<title></title>
+
+	<content>
+	<text>1384</text>
+</content>
+</section>
+<section type="slide" position="72">
+	<title></title>
+
+	<content>
+	<text>1384</text>
+</content>
+</section>
+<section type="slide" position="73">
+	<title>Adding Labor to the Work Order</title>
+
+	<content>
+	<text>Adding Labor To A Work Order</text>
+</content>
+</section>
+<section type="slide" position="74">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="75">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="76">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="77">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="78">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="79">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="80">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="81">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="82">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="83">
+	<title>Completing / Cashing out A work ORder</title>
+
+	<content>
+	<text>Completing/Cashing Out a Work Order</text>
+</content>
+</section>
+<section type="slide" position="84">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="85">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="86">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="87">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="88">
+	<title>Let&apos;s Revierw</title>
+
+	<content>
+	<text>Let’s Review </text>
+</content>
+</section>
+<section type="slide" position="89">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="90">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="91">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="92">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="93">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="94">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="95">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="96">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="97">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="98">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="99">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="100">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="101">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="102">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="103">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="104">
+	<title></title>
+
+	<content></content>
+</section>
+<section type="slide" position="105">
+	<title></title>
+
+	<content>
+	<text>Awesome Job!</text>
+</content>
+</section>
+<section type="slide" position="106">
+	<title></title>
+
+	<content></content>
+</section>
+</document-metadata>
